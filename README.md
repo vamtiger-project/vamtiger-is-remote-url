@@ -29,6 +29,7 @@ const url = 'https://some/https/url';
 
 isRemoteUrl({ url })
     // .then(result => handleResult(result)) // result = true
+    // .catch(handleError)
 ```
 
 Otherwise, it will return **false**:
@@ -39,4 +40,5 @@ const url = 'https://some/https/url';
 
 isRemoteUrl({ url })
     // .then(result => handleResult(result)) // result = false
+    // .catch(handleError)
 ```
