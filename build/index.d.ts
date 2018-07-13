@@ -6,5 +6,5 @@ export interface IError extends Error {
     code: string;
 }
 export declare enum ErrorCode {
-    ERR_INVALID_URL = "ERR_INVALID_URL",
+    ERR_INVALID_URL = "ERR_INVALID_URL"
 }
