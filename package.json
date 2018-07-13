@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-is-remote-url",
-    "version": "0.0.8",
+    "version": "0.0.9-0",
     "description": "Returns true for a valid URL string.",
     "main": "build",
     "scripts": {
